@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Dorian Contal</h1>
 <h3 align="center">A Web and logiciels developer</h3>
 
-- 🔭 I’m currently working on **A 2D Game in JAVA**
+- 🔭 I’m currently working on **A 2D Game in C#**
 
-- 🌱 I’m currently learning **Using JavaFX**
+- 🌱 I’m currently learning **Using Unity**
 
 - 📫 How to reach me **dorian.contal20@gmail.com**
 

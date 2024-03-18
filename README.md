@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Dorian Contal</h1>
 <h3 align="center">A Web and logiciels developer</h3>
 
-- 🔭 I’m currently working on **A 2D Game in C# & an Internet Relay Chat Client and Server**
+- 🔭 I’m currently working on **A Flutter app using Trello Api**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 📫 How to reach me **dorian.contal20@gmail.com**
 

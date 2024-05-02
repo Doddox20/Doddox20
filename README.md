@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Symfony Marketplace**
 
-- 🌱 I’m currently learning **SYmfony Framework**
+- 🌱 I’m currently learning **Symfony Framework**
 
 - 📫 How to reach me **dorian.contal20@gmail.com**
 

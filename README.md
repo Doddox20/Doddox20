@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Dorian Contal</h1>
 <h3 align="center">A Web and logiciels developer</h3>
 
-- 🔭 I’m currently working on **A Flutter app using Trello Api**
+- 🔭 I’m currently working on **A Symfony Marketplace**
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **SYmfony Framework**
 
 - 📫 How to reach me **dorian.contal20@gmail.com**
 
